@@ -11,11 +11,8 @@
   "dependencies": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-<<<<<<< HEAD
-    "next": "15.2.2"
-=======
+    "next": "15.2.2",
     "zod": "^3.24.2"
->>>>>>> 02bee5f (made files and installed zod)
   },
   "devDependencies": {
     "typescript": "^5",
